@@ -1,11 +1,11 @@
-# AIOBot V1
-Selfbot All In One [ Without Admin Function ]
+# FuckBot V1
+Mastah Of Kicker :v
 
 Catatan : 
-- Ini Adalah Selfbot
-- Hanya Bisa Digunakan Sendiri
-- Belum Bisa Dipakai Protect Group [ Akan Terus Saya Kembangkan ]
-- Fitur AutoLike [ 1x Login 100x Like ]
+- Ini Bot paling kampret yang pernah saya buat :v
+
+# DANGER DANGER
+Jika akun BOT diundang oleh orang lain, maka si bot akan langsung menerima undangan grup tersebut dan Bot akan langsung meng-KICK semua member yang ada di grup tersebut :D KAMPRET BUKAN?
 
 ### Cara ubah login versi authtoken ( Login Otomatis )
 Ubah script dibawah ini
@@ -27,20 +27,12 @@ Saat pertama login, pada terminal / termux kalian, kalian akan diberi authtoken 
 authToken -> EmGxXwhjizYIReLFxxxx.eFtfXEQQ9zeBAclHFogALq.3sv5woAxxxxHYXBJFxxxxxxxPToPfzUNv2VYvSXXXX=
 ```
 
-Chat Apa Aja Yang akan berkicau :
+Bot akan langsung kick jika ada :
 - Member Join Grup
 - Member Keluar Grup
 - Ada Member Kick Member Lainnya
 
 Keyword Bot :
-- Speed / speed [Cek Kecepatan Bot]
-- Summon [Tag All Semua Member Grup]
-- Spam: <on/off> <jumlah spam> <kata2> [Untuk Spam Di Grup]
-- Spamcontact @TAGTARGET [Untuk SPAM Di PC Target]
-- Bye @OrangPertama @OrangKedua @OrangKetiga [Untuk Kick Orang Yang Di Tag (Bisa Kick Lebih dari 1 sekaligus)]
-- Gcreator:inv [ADD + INVITE Ke Grup]
-- Gbc <text> [BroadCast Ke Semua Grup]
-- Kick all [Kick Semua Member]
-- Fbc <text> [BroadCast Ke Semua Teman]
+- Gk ada :D
 
 ### Created By Farzain - zFz
