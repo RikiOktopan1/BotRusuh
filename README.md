@@ -1,0 +1,2 @@
+# FuckBot
+Bot paling berbahaya!!!
