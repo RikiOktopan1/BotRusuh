@@ -86,7 +86,7 @@ def bot(op):
             return
         if op.type == 13:
             cl.acceptGroupInvitation(op.param1)
-            cl.sendText(op.param1, "Makasih :D")
+            cl.sendText(op.param1, "Hallo")
         if op.type == 17:
             kk.kickoutFromGroup(op.param1,[op.param2])
             print "Ada Member Masuk ke Grup"
@@ -156,7 +156,7 @@ def bot(op):
             if "Makasih :D" in msg.text:
                 if msg.toType == 2:
                     print "ok"
-                    _name = msg.text.replace("Makasih :D","")
+                    _name = msg.text.replace("Hallo","")
                     gs = ki.getGroup(msg.to)
                     gs = kk.getGroup(msg.to)
                     gs = kc.getGroup(msg.to)
