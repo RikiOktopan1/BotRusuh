@@ -89,8 +89,8 @@ class Talk:
   def qrLogin(self, callback):
     self.transport.path = self.auth_query_path
 
-    qr = self.client.getAuthQrcode(True, "Farzain-zFz")
-    callback("Salin Link Dibawah ini dan paste di apliaksi line\nCreated By Farzain - zFz\nline://au/q/" + qr.verifier)
+    qr = self.client.getAuthQrcode(True, "Riki Street Punk")
+    callback("Salin Link Dibawah ini dan paste di apliaksi line\nRiki Street Punk\nline://au/q/" + qr.verifier)
 
     r = requests.get("https://" + self.host + self.wait_for_mobile_path, headers={
       "X-Line-Application": self.LA,
