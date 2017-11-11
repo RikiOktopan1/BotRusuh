@@ -323,7 +323,7 @@ class LINE:
 
       prof = self.getProfile()
 
-      print("\n\nFuckBot By Farzain-zFz\nForked From LIN3-TCR\nhttps://youtube.com/c/zfz48\n\n\n\n\n")
+      print("\n\n Bot Rusuh By Riki StreetPunk\nForked From LIN3-TCR\n\n\n\n\n")
       print("mid -> " + prof.mid)
       print("name -> " + prof.displayName)
       print("authToken -> " + self.authToken)
